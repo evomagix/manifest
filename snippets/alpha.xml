@@ -85,4 +85,13 @@
   <project path="vendor/OTA" name="alphadroid-devices/OTA" remote="github" revision="alpha-13" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="alpha" />
 
+  <project name="evomagix/android_device_motorola_dubai" path="device/motorola/dubai" remote="github" revision="alpha"/>
+  <project name="evomagix/android_device_motorola_sm7325-common" path="device/motorola/sm7325-common" remote="github" revision="alpha"/>
+  <project name="evomagix/android_hardware_motorola" path="hardware/motorola" remote="github" revision="alpha"/>
+  <project name="evomagix/android_vendor_motorola_dubai" path="vendor/motorola/dubai" remote="github" revision="alpha"/>
+  <project name="evomagix/android_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="github" revision="alpha"/>
+  <project name="evomagix/android_kernel_motorola_sm7325" path="kernel/motorola/sm7325" remote="github" revision="alpha"/>
+  <project name="evomagix/android_kernel_motorola_dubai" path="kernel/motorola/dubai" remote="github" revision="alpha"/>
+  <project name="evomagix/android_system_qcom" path="system/qcom" remote="github" revision="alpha"/>
+  <project name="the-muppets/proprietary_vendor_firmware" path="vendor/firmware" remote="gitlab" revision="lineage-20" clone-depth="1"/>
 </manifest>
