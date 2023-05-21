@@ -83,7 +83,7 @@
   <project path="vendor/gms" name="elpaablo/vendor_gapps" remote="gitlab" clone-depth="1" />
   <project path="vendor/google/interfaces" name="vendor_google_interfaces" remote="alpha" />
   <project path="vendor/OTA" name="alphadroid-devices/OTA" remote="github" revision="alpha-13" />
-  <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="alpha" />
+  <project path="vendor/pixel-framework" name="android_vendor_pixel-framework" remote="alpha" />
 
   <project name="evomagix/android_device_motorola_dubai" path="device/motorola/dubai" remote="github" revision="alpha"/>
   <project name="evomagix/android_device_motorola_sm7325-common" path="device/motorola/sm7325-common" remote="github" revision="alpha"/>
