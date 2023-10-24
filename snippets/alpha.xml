@@ -95,5 +95,5 @@
   <project name="leonevo/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="gitlab" revision="13"/>
   <project name="evomagix/android_kernel_motorola_dubai" path="kernel/motorola/dubai" remote="github" revision="alpha"/>
   <project name="evomagix/android_system_qcom" path="system/qcom" remote="github" revision="alpha"/>
-  <project name="the-muppets/proprietary_vendor_firmware" path="vendor/firmware" remote="gitlab" revision="lineage-20" clone-depth="1"/>
+  <project name="ThankYouMario/proprietary_vendor_motorola_firmware" path="vendor/motorola/firmware" remote="gitlab" revision="topaz"/>
 </manifest>
